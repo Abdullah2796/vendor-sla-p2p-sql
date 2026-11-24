@@ -1,0 +1,11 @@
+vendor_name,outlier_incidents,share_of_all_outliers_pct,cumulative_share_pct,benchmarks
+Ironbay Services,114,18.2,18.2,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Dunmore Services,74,11.8,30.0,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Silverlake Services,64,10.2,40.2,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Juniper Ridge Services,62,9.9,50.1,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Arkwell Services,58,9.3,59.3,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Meridian Arc Services,51,8.1,67.5,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Upland Services,50,8.0,75.4,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Valemont Services,38,6.1,81.5,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Cobaltis Services,36,5.7,87.2,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h
+Harrowgate Services,21,3.3,90.6,P1: median 1.8h / P90 3.7h | P2: median 3.5h / P90 7.6h | P3: median 10.7h / P90 24.4h | P4: median 31.6h / P90 76.1h

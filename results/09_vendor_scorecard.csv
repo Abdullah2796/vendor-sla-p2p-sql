@@ -1,0 +1,17 @@
+overall_rank,vendor_name,contract_tier,incidents,resolution_sla_pct,response_sla_pct,repeat_rate_pct,score_0_to_1
+1,Kestrel Services,Strategic,95,98.9,97.9,4.2,0.97
+2,Larkspur Services,Tactical,185,97.8,97.8,6.4,0.83
+3,Cobaltis Services,Preferred,594,97.0,97.0,5.2,0.81
+4,Brightline Services,Tactical,124,95.2,96.8,3.2,0.79
+5,Galloway Services,Preferred,246,95.1,96.7,4.9,0.69
+6,Thornbury Services,Tactical,189,91.0,93.7,3.2,0.66
+7,Fenwick Services,Strategic,289,96.5,95.5,6.6,0.65
+8,Valemont Services,Preferred,350,90.9,93.7,4.5,0.56
+9,Juniper Ridge Services,Preferred,417,90.9,88.7,6.5,0.45
+10,Harrowgate Services,Tactical,131,90.8,88.5,4.5,0.45
+11,Arkwell Services,Tactical,316,90.8,90.2,7.3,0.33
+12,Silverlake Services,Strategic,269,87.7,85.9,5.2,0.32
+13,Meridian Arc Services,Preferred,240,86.7,84.2,6.6,0.20
+13,Upland Services,Preferred,146,83.6,80.8,6.1,0.20
+14,Ironbay Services,Strategic,248,76.6,73.8,8.1,0.07
+15,Dunmore Services,Preferred,105,59.0,68.6,8.6,0.00

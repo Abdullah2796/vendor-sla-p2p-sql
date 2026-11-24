@@ -1,0 +1,26 @@
+spend_rank,vendor_name,category,invoiced_eur,share_pct,cumulative_pct,abc_class
+1,Silverlake Services,Software Platform,3395152,15.9,15.9,A
+2,Fenwick Services,Field Maintenance,2260298,10.6,26.4,A
+3,Pinecrest Supply,Hardware Supply,2179976,10.2,36.6,A
+4,Valemont Services,Software Platform,1233257,5.8,42.4,A
+5,Oakhurst Supply,Hardware Supply,1208526,5.7,48.1,A
+6,Larkspur Services,Network Services,1135929,5.3,53.4,A
+7,Northgate Supply,Hardware Supply,1112138,5.2,58.6,A
+8,Ironbay Services,Network Services,1000873,4.7,63.2,A
+9,Quayside Supply,Hardware Supply,904821,4.2,67.5,A
+10,Meridian Arc Services,Network Services,806442,3.8,71.2,A
+11,Upland Services,Software Platform,687097,3.2,74.5,A
+12,Galloway Services,Field Maintenance,616154,2.9,77.3,A
+13,Juniper Ridge Services,Network Services,597513,2.8,80.1,A
+14,Thornbury Services,Software Platform,480735,2.2,82.4,B
+15,Redstone Supply,Hardware Supply,471105,2.2,84.6,B
+16,Arkwell Services,Field Maintenance,460100,2.2,86.7,B
+17,Dunmore Services,Field Maintenance,452084,2.1,88.8,B
+18,Harrowgate Services,Network Services,394241,1.8,90.7,B
+19,Cobaltis Services,Field Maintenance,387744,1.8,92.5,B
+20,Kestrel Services,Network Services,379949,1.8,94.3,B
+21,Yarrow Services,Facilities,377898,1.8,96.0,B
+22,Everfield Services,Field Maintenance,279341,1.3,97.4,C
+23,Westbrook Services,Facilities,221656,1.0,98.4,C
+24,Brightline Services,Field Maintenance,200181,0.9,99.3,C
+25,Zephyr Services,Facilities,144658,0.7,100.0,C

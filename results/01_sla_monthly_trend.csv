@@ -1,0 +1,307 @@
+vendor_name,month,incidents,resolution_sla_pct,rolling_3m_resolution_pct,mom_change_pts,response_sla_pct
+Arkwell Services,2025-01-01,58,86.2,86.2,,94.8
+Arkwell Services,2025-02-01,52,82.7,84.5,-3.5,92.3
+Arkwell Services,2025-03-01,51,86.3,85.1,3.6,82.4
+Arkwell Services,2025-04-01,59,89.8,86.3,3.5,84.7
+Arkwell Services,2025-05-01,68,83.8,86.6,-6.0,80.9
+Arkwell Services,2025-06-01,69,84.1,85.9,0.3,87.0
+Arkwell Services,2025-07-01,61,83.6,83.8,-0.5,83.6
+Arkwell Services,2025-08-01,60,81.7,83.1,-1.9,78.3
+Arkwell Services,2025-09-01,42,90.5,85.3,8.8,92.9
+Arkwell Services,2025-10-01,51,94.1,88.8,3.6,86.3
+Arkwell Services,2025-11-01,64,92.2,92.3,-1.9,89.1
+Arkwell Services,2025-12-01,49,95.9,94.1,3.7,95.9
+Arkwell Services,2026-01-01,59,89.8,92.6,-6.1,91.5
+Arkwell Services,2026-02-01,51,92.2,92.6,2.4,90.2
+Arkwell Services,2026-03-01,52,92.3,91.4,0.1,90.4
+Arkwell Services,2026-04-01,41,92.7,92.4,0.4,87.8
+Arkwell Services,2026-05-01,47,91.5,92.2,-1.2,83.0
+Arkwell Services,2026-06-01,66,87.9,90.7,-3.6,95.5
+Brightline Services,2025-01-01,30,96.7,96.7,,96.7
+Brightline Services,2025-02-01,28,89.3,93.0,-7.4,96.4
+Brightline Services,2025-03-01,14,100.0,95.3,10.7,100.0
+Brightline Services,2025-04-01,22,100.0,96.4,0.0,95.5
+Brightline Services,2025-05-01,22,100.0,100.0,0.0,100.0
+Brightline Services,2025-06-01,30,100.0,100.0,0.0,90.0
+Brightline Services,2025-07-01,30,100.0,100.0,0.0,100.0
+Brightline Services,2025-08-01,34,91.2,97.1,-8.8,97.1
+Brightline Services,2025-09-01,19,100.0,97.1,8.8,94.7
+Brightline Services,2025-10-01,22,100.0,97.1,0.0,100.0
+Brightline Services,2025-11-01,14,100.0,100.0,0.0,100.0
+Brightline Services,2025-12-01,21,95.2,98.4,-4.8,90.5
+Brightline Services,2026-01-01,20,95.0,96.7,-0.2,95.0
+Brightline Services,2026-02-01,23,95.7,95.3,0.7,95.7
+Brightline Services,2026-03-01,16,100.0,96.9,4.3,100.0
+Brightline Services,2026-04-01,25,96.0,97.2,-4.0,96.0
+Brightline Services,2026-05-01,21,95.2,97.1,-0.8,100.0
+Brightline Services,2026-06-01,19,89.5,93.6,-5.7,94.7
+Cobaltis Services,2025-01-01,107,96.3,96.3,,93.5
+Cobaltis Services,2025-02-01,101,95.0,95.7,-1.3,96.0
+Cobaltis Services,2025-03-01,101,95.0,95.4,0.0,95.0
+Cobaltis Services,2025-04-01,96,92.7,94.2,-2.3,92.7
+Cobaltis Services,2025-05-01,108,94.4,94.0,1.7,97.2
+Cobaltis Services,2025-06-01,136,92.6,93.2,-1.8,94.9
+Cobaltis Services,2025-07-01,110,95.5,94.2,2.9,95.5
+Cobaltis Services,2025-08-01,160,97.5,95.2,2.0,93.8
+Cobaltis Services,2025-09-01,116,94.8,95.9,-2.7,93.1
+Cobaltis Services,2025-10-01,112,94.6,95.6,-0.2,97.3
+Cobaltis Services,2025-11-01,87,96.6,95.3,2.0,92.0
+Cobaltis Services,2025-12-01,96,99.0,96.7,2.4,99.0
+Cobaltis Services,2026-01-01,104,97.1,97.6,-1.9,95.2
+Cobaltis Services,2026-02-01,83,97.6,97.9,0.5,98.8
+Cobaltis Services,2026-03-01,99,94.9,96.5,-2.7,94.9
+Cobaltis Services,2026-04-01,98,95.9,96.1,1.0,100.0
+Cobaltis Services,2026-05-01,96,100.0,96.9,4.1,99.0
+Cobaltis Services,2026-06-01,114,96.5,97.5,-3.5,94.7
+Dunmore Services,2025-01-01,7,57.1,57.1,,28.6
+Dunmore Services,2025-02-01,20,45.0,51.1,-12.1,60.0
+Dunmore Services,2025-03-01,17,52.9,51.7,7.9,70.6
+Dunmore Services,2025-04-01,17,76.5,58.1,23.6,52.9
+Dunmore Services,2025-05-01,22,50.0,59.8,-26.5,59.1
+Dunmore Services,2025-06-01,20,65.0,63.8,15.0,55.0
+Dunmore Services,2025-07-01,14,71.4,62.1,6.4,35.7
+Dunmore Services,2025-08-01,19,52.6,63.0,-18.8,78.9
+Dunmore Services,2025-09-01,31,51.6,58.5,-1.0,51.6
+Dunmore Services,2025-10-01,24,66.7,57.0,15.1,58.3
+Dunmore Services,2025-11-01,22,81.8,66.7,15.1,77.3
+Dunmore Services,2025-12-01,8,75.0,74.5,-6.8,50.0
+Dunmore Services,2026-01-01,16,50.0,68.9,-25.0,68.8
+Dunmore Services,2026-02-01,13,61.5,62.2,11.5,53.8
+Dunmore Services,2026-03-01,21,47.6,53.0,-13.9,66.7
+Dunmore Services,2026-04-01,15,66.7,58.6,19.1,66.7
+Dunmore Services,2026-05-01,17,64.7,59.7,-2.0,70.6
+Dunmore Services,2026-06-01,23,65.2,65.5,0.5,78.3
+Everfield Services,2025-01-01,4,100.0,100.0,,100.0
+Everfield Services,2025-02-01,1,100.0,100.0,0.0,100.0
+Everfield Services,2025-03-01,1,100.0,100.0,0.0,0.0
+Everfield Services,2025-04-01,1,100.0,100.0,0.0,100.0
+Everfield Services,2025-05-01,3,66.7,88.9,-33.3,66.7
+Everfield Services,2025-06-01,3,33.3,66.7,-33.4,100.0
+Everfield Services,2025-07-01,1,100.0,66.7,66.7,100.0
+Everfield Services,2025-08-01,7,85.7,73.0,-14.3,71.4
+Everfield Services,2025-09-01,2,100.0,95.2,14.3,100.0
+Everfield Services,2025-10-01,4,100.0,95.2,0.0,75.0
+Everfield Services,2025-11-01,4,75.0,91.7,-25.0,75.0
+Everfield Services,2025-12-01,3,100.0,91.7,25.0,100.0
+Everfield Services,2026-01-01,3,100.0,91.7,0.0,100.0
+Everfield Services,2026-02-01,4,100.0,100.0,0.0,100.0
+Everfield Services,2026-03-01,2,100.0,100.0,0.0,100.0
+Everfield Services,2026-04-01,2,50.0,83.3,-50.0,100.0
+Everfield Services,2026-05-01,2,100.0,83.3,50.0,0.0
+Everfield Services,2026-06-01,4,75.0,75.0,-25.0,100.0
+Fenwick Services,2025-01-01,41,95.1,95.1,,97.6
+Fenwick Services,2025-02-01,45,100.0,97.6,4.9,82.2
+Fenwick Services,2025-03-01,49,98.0,97.7,-2.0,98.0
+Fenwick Services,2025-04-01,49,98.0,98.7,0.0,98.0
+Fenwick Services,2025-05-01,54,92.6,96.2,-5.4,94.4
+Fenwick Services,2025-06-01,46,89.1,93.2,-3.5,93.5
+Fenwick Services,2025-07-01,60,93.3,91.7,4.2,96.7
+Fenwick Services,2025-08-01,76,96.1,92.8,2.8,92.1
+Fenwick Services,2025-09-01,53,98.1,95.8,2.0,96.2
+Fenwick Services,2025-10-01,47,89.4,94.5,-8.7,100.0
+Fenwick Services,2025-11-01,51,92.2,93.2,2.8,92.2
+Fenwick Services,2025-12-01,43,95.3,92.3,3.1,95.3
+Fenwick Services,2026-01-01,49,93.9,93.8,-1.4,100.0
+Fenwick Services,2026-02-01,41,95.1,94.8,1.2,92.7
+Fenwick Services,2026-03-01,50,98.0,95.7,2.9,96.0
+Fenwick Services,2026-04-01,35,100.0,97.7,2.0,91.4
+Fenwick Services,2026-05-01,53,94.3,97.4,-5.7,98.1
+Fenwick Services,2026-06-01,61,98.4,97.6,4.1,93.4
+Galloway Services,2025-01-01,37,97.3,97.3,,89.2
+Galloway Services,2025-02-01,30,96.7,97.0,-0.6,100.0
+Galloway Services,2025-03-01,36,97.2,97.1,0.5,94.4
+Galloway Services,2025-04-01,50,98.0,97.3,0.8,96.0
+Galloway Services,2025-05-01,52,96.2,97.1,-1.8,90.4
+Galloway Services,2025-06-01,57,94.7,96.3,-1.5,94.7
+Galloway Services,2025-07-01,53,90.6,93.8,-4.1,98.1
+Galloway Services,2025-08-01,50,94.0,93.1,3.4,90.0
+Galloway Services,2025-09-01,52,96.2,93.6,2.2,94.2
+Galloway Services,2025-10-01,49,98.0,96.1,1.8,98.0
+Galloway Services,2025-11-01,49,98.0,97.4,0.0,100.0
+Galloway Services,2025-12-01,49,98.0,98.0,0.0,100.0
+Galloway Services,2026-01-01,36,86.1,94.0,-11.9,100.0
+Galloway Services,2026-02-01,33,100.0,94.7,13.9,97.0
+Galloway Services,2026-03-01,49,93.9,93.3,-6.1,98.0
+Galloway Services,2026-04-01,47,97.9,97.3,4.0,93.6
+Galloway Services,2026-05-01,38,92.1,94.6,-5.8,94.7
+Galloway Services,2026-06-01,43,100.0,96.7,7.9,97.7
+Harrowgate Services,2025-01-01,21,95.2,95.2,,95.2
+Harrowgate Services,2025-02-01,17,88.2,91.7,-7.0,100.0
+Harrowgate Services,2025-03-01,23,82.6,88.7,-5.6,95.7
+Harrowgate Services,2025-04-01,18,77.8,82.9,-4.8,88.9
+Harrowgate Services,2025-05-01,22,81.8,80.7,4.0,90.9
+Harrowgate Services,2025-06-01,34,88.2,82.6,6.4,85.3
+Harrowgate Services,2025-07-01,22,90.9,87.0,2.7,95.5
+Harrowgate Services,2025-08-01,9,77.8,85.6,-13.1,77.8
+Harrowgate Services,2025-09-01,22,72.7,80.5,-5.1,95.5
+Harrowgate Services,2025-10-01,24,87.5,79.3,14.8,95.8
+Harrowgate Services,2025-11-01,25,92.0,84.1,4.5,96.0
+Harrowgate Services,2025-12-01,24,87.5,89.0,-4.5,87.5
+Harrowgate Services,2026-01-01,22,95.5,91.7,8.0,86.4
+Harrowgate Services,2026-02-01,28,92.9,92.0,-2.6,85.7
+Harrowgate Services,2026-03-01,25,80.0,89.5,-12.9,80.0
+Harrowgate Services,2026-04-01,25,92.0,88.3,12.0,92.0
+Harrowgate Services,2026-05-01,17,94.1,88.7,2.1,94.1
+Harrowgate Services,2026-06-01,14,92.9,93.0,-1.2,100.0
+Ironbay Services,2025-01-01,29,75.9,75.9,,48.3
+Ironbay Services,2025-02-01,41,70.7,73.3,-5.2,56.1
+Ironbay Services,2025-03-01,39,84.6,77.1,13.9,61.5
+Ironbay Services,2025-04-01,27,70.4,75.2,-14.2,55.6
+Ironbay Services,2025-05-01,29,55.2,70.1,-15.2,65.5
+Ironbay Services,2025-06-01,42,64.3,63.3,9.1,64.3
+Ironbay Services,2025-07-01,53,66.0,61.8,1.7,71.7
+Ironbay Services,2025-08-01,44,59.1,63.1,-6.9,59.1
+Ironbay Services,2025-09-01,30,70.0,65.0,10.9,66.7
+Ironbay Services,2025-10-01,40,80.0,69.7,10.0,67.5
+Ironbay Services,2025-11-01,43,79.1,76.4,-0.9,72.1
+Ironbay Services,2025-12-01,47,78.7,79.3,-0.4,80.9
+Ironbay Services,2026-01-01,48,79.2,79.0,0.5,70.8
+Ironbay Services,2026-02-01,23,65.2,74.4,-14.0,69.6
+Ironbay Services,2026-03-01,48,83.3,75.9,18.1,79.2
+Ironbay Services,2026-04-01,30,90.0,79.5,6.7,70.0
+Ironbay Services,2026-05-01,46,78.3,83.9,-11.7,78.3
+Ironbay Services,2026-06-01,53,64.2,77.5,-14.1,71.7
+Juniper Ridge Services,2025-01-01,67,89.6,89.6,,89.6
+Juniper Ridge Services,2025-02-01,75,86.7,88.2,-2.9,81.3
+Juniper Ridge Services,2025-03-01,57,73.7,83.3,-13.0,89.5
+Juniper Ridge Services,2025-04-01,57,93.0,84.5,19.3,87.7
+Juniper Ridge Services,2025-05-01,83,88.0,84.9,-5.0,85.5
+Juniper Ridge Services,2025-06-01,84,94.0,91.7,6.0,88.1
+Juniper Ridge Services,2025-07-01,76,88.2,90.1,-5.8,88.2
+Juniper Ridge Services,2025-08-01,104,86.5,89.6,-1.7,87.5
+Juniper Ridge Services,2025-09-01,80,90.0,88.2,3.5,87.5
+Juniper Ridge Services,2025-10-01,61,85.2,87.2,-4.8,90.2
+Juniper Ridge Services,2025-11-01,60,90.0,88.4,4.8,95.0
+Juniper Ridge Services,2025-12-01,60,95.0,90.1,5.0,90.0
+Juniper Ridge Services,2026-01-01,64,92.2,92.4,-2.8,92.2
+Juniper Ridge Services,2026-02-01,66,90.9,92.7,-1.3,90.9
+Juniper Ridge Services,2026-03-01,65,84.6,89.2,-6.3,90.8
+Juniper Ridge Services,2026-04-01,75,92.0,89.2,7.4,85.3
+Juniper Ridge Services,2026-05-01,66,92.4,89.7,0.4,90.9
+Juniper Ridge Services,2026-06-01,81,92.6,92.3,0.2,84.0
+Kestrel Services,2025-01-01,8,100.0,100.0,,100.0
+Kestrel Services,2025-02-01,17,100.0,100.0,0.0,100.0
+Kestrel Services,2025-03-01,11,100.0,100.0,0.0,100.0
+Kestrel Services,2025-04-01,18,100.0,100.0,0.0,94.4
+Kestrel Services,2025-05-01,13,100.0,100.0,0.0,100.0
+Kestrel Services,2025-06-01,17,88.2,96.1,-11.8,100.0
+Kestrel Services,2025-07-01,26,88.5,92.2,0.3,96.2
+Kestrel Services,2025-08-01,22,100.0,92.2,11.5,95.5
+Kestrel Services,2025-09-01,13,92.3,93.6,-7.7,92.3
+Kestrel Services,2025-10-01,15,93.3,95.2,1.0,100.0
+Kestrel Services,2025-11-01,15,93.3,93.0,0.0,93.3
+Kestrel Services,2025-12-01,13,100.0,95.5,6.7,100.0
+Kestrel Services,2026-01-01,19,100.0,97.8,0.0,89.5
+Kestrel Services,2026-02-01,13,100.0,100.0,0.0,100.0
+Kestrel Services,2026-03-01,20,95.0,98.3,-5.0,100.0
+Kestrel Services,2026-04-01,9,100.0,98.3,5.0,100.0
+Kestrel Services,2026-05-01,14,100.0,98.3,0.0,100.0
+Kestrel Services,2026-06-01,20,100.0,100.0,0.0,100.0
+Larkspur Services,2025-01-01,32,90.6,90.6,,96.9
+Larkspur Services,2025-02-01,18,100.0,95.3,9.4,94.4
+Larkspur Services,2025-03-01,44,97.7,96.1,-2.3,97.7
+Larkspur Services,2025-04-01,37,97.3,98.3,-0.4,97.3
+Larkspur Services,2025-05-01,22,90.9,95.3,-6.4,90.9
+Larkspur Services,2025-06-01,49,93.9,94.0,3.0,89.8
+Larkspur Services,2025-07-01,39,92.3,92.4,-1.6,92.3
+Larkspur Services,2025-08-01,44,97.7,94.6,5.4,97.7
+Larkspur Services,2025-09-01,34,100.0,96.7,2.3,88.2
+Larkspur Services,2025-10-01,26,96.2,98.0,-3.8,100.0
+Larkspur Services,2025-11-01,28,100.0,98.7,3.8,96.4
+Larkspur Services,2025-12-01,30,100.0,98.7,0.0,86.7
+Larkspur Services,2026-01-01,36,97.2,99.1,-2.8,100.0
+Larkspur Services,2026-02-01,25,100.0,99.1,2.8,96.0
+Larkspur Services,2026-03-01,26,100.0,99.1,0.0,100.0
+Larkspur Services,2026-04-01,27,100.0,100.0,0.0,96.3
+Larkspur Services,2026-05-01,37,94.6,98.2,-5.4,97.3
+Larkspur Services,2026-06-01,34,97.1,97.2,2.5,97.1
+Meridian Arc Services,2025-01-01,40,85.0,85.0,,75.0
+Meridian Arc Services,2025-02-01,34,85.3,85.2,0.3,88.2
+Meridian Arc Services,2025-03-01,37,89.2,86.5,3.9,86.5
+Meridian Arc Services,2025-04-01,33,78.8,84.4,-10.4,90.9
+Meridian Arc Services,2025-05-01,30,73.3,80.4,-5.5,80.0
+Meridian Arc Services,2025-06-01,55,80.0,77.4,6.7,76.4
+Meridian Arc Services,2025-07-01,53,86.8,80.0,6.8,88.7
+Meridian Arc Services,2025-08-01,49,83.7,83.5,-3.1,81.6
+Meridian Arc Services,2025-09-01,39,76.9,82.5,-6.8,84.6
+Meridian Arc Services,2025-10-01,35,94.3,85.0,17.4,91.4
+Meridian Arc Services,2025-11-01,30,93.3,88.2,-1.0,93.3
+Meridian Arc Services,2025-12-01,46,87.0,91.5,-6.3,76.1
+Meridian Arc Services,2026-01-01,32,87.5,89.3,0.5,81.3
+Meridian Arc Services,2026-02-01,44,77.3,83.9,-10.2,90.9
+Meridian Arc Services,2026-03-01,36,88.9,84.6,11.6,88.9
+Meridian Arc Services,2026-04-01,32,84.4,83.5,-4.5,75.0
+Meridian Arc Services,2026-05-01,51,86.3,86.5,1.9,80.4
+Meridian Arc Services,2026-06-01,45,95.6,88.8,9.3,86.7
+Silverlake Services,2025-01-01,38,84.2,84.2,,81.6
+Silverlake Services,2025-02-01,37,86.5,85.4,2.3,81.1
+Silverlake Services,2025-03-01,44,84.1,84.9,-2.4,65.9
+Silverlake Services,2025-04-01,45,84.4,85.0,0.3,80.0
+Silverlake Services,2025-05-01,52,94.2,87.6,9.8,75.0
+Silverlake Services,2025-06-01,53,77.4,85.3,-16.8,81.1
+Silverlake Services,2025-07-01,82,81.7,84.4,4.3,82.9
+Silverlake Services,2025-08-01,66,86.4,81.8,4.7,86.4
+Silverlake Services,2025-09-01,59,71.2,79.8,-15.2,86.4
+Silverlake Services,2025-10-01,54,92.6,83.4,21.4,87.0
+Silverlake Services,2025-11-01,50,88.0,83.9,-4.6,82.0
+Silverlake Services,2025-12-01,55,87.3,89.3,-0.7,78.2
+Silverlake Services,2026-01-01,43,93.0,89.4,5.7,76.7
+Silverlake Services,2026-02-01,37,81.1,87.1,-11.9,83.8
+Silverlake Services,2026-03-01,44,86.4,86.8,5.3,95.5
+Silverlake Services,2026-04-01,41,85.4,84.3,-1.0,87.8
+Silverlake Services,2026-05-01,48,91.7,87.8,6.3,81.3
+Silverlake Services,2026-06-01,56,87.5,88.2,-4.2,89.3
+Thornbury Services,2025-01-01,33,87.9,87.9,,90.9
+Thornbury Services,2025-02-01,40,95.0,91.5,7.1,92.5
+Thornbury Services,2025-03-01,30,93.3,92.1,-1.7,86.7
+Thornbury Services,2025-04-01,33,93.9,94.1,0.6,93.9
+Thornbury Services,2025-05-01,36,88.9,92.0,-5.0,94.4
+Thornbury Services,2025-06-01,40,92.5,91.8,3.6,92.5
+Thornbury Services,2025-07-01,32,87.5,89.6,-5.0,96.9
+Thornbury Services,2025-08-01,37,94.6,91.5,7.1,91.9
+Thornbury Services,2025-09-01,36,88.9,90.3,-5.7,94.4
+Thornbury Services,2025-10-01,35,91.4,91.6,2.5,91.4
+Thornbury Services,2025-11-01,27,96.3,92.2,4.9,96.3
+Thornbury Services,2025-12-01,26,96.2,94.6,-0.1,96.2
+Thornbury Services,2026-01-01,29,89.7,94.1,-6.5,89.7
+Thornbury Services,2026-02-01,27,85.2,90.4,-4.5,96.3
+Thornbury Services,2026-03-01,39,97.4,90.8,12.2,92.3
+Thornbury Services,2026-04-01,38,84.2,88.9,-13.2,94.7
+Thornbury Services,2026-05-01,21,100.0,93.9,15.8,95.2
+Thornbury Services,2026-06-01,35,91.4,91.9,-8.6,94.3
+Upland Services,2025-01-01,34,67.6,67.6,,64.7
+Upland Services,2025-02-01,19,57.9,62.8,-9.7,94.7
+Upland Services,2025-03-01,30,86.7,70.7,28.8,83.3
+Upland Services,2025-04-01,23,56.5,67.0,-30.2,82.6
+Upland Services,2025-05-01,26,65.4,69.5,8.9,80.8
+Upland Services,2025-06-01,26,61.5,61.1,-3.9,80.8
+Upland Services,2025-07-01,36,88.9,71.9,27.4,77.8
+Upland Services,2025-08-01,27,81.5,77.3,-7.4,81.5
+Upland Services,2025-09-01,25,96.0,88.8,14.5,80.0
+Upland Services,2025-10-01,32,75.0,84.2,-21.0,75.0
+Upland Services,2025-11-01,26,80.8,83.9,5.8,76.9
+Upland Services,2025-12-01,39,82.1,79.3,1.3,66.7
+Upland Services,2026-01-01,20,95.0,86.0,12.9,90.0
+Upland Services,2026-02-01,24,87.5,88.2,-7.5,70.8
+Upland Services,2026-03-01,22,86.4,89.6,-1.1,77.3
+Upland Services,2026-04-01,32,81.3,85.1,-5.1,78.1
+Upland Services,2026-05-01,19,68.4,78.7,-12.9,84.2
+Upland Services,2026-06-01,29,82.8,77.5,14.4,86.2
+Valemont Services,2025-01-01,55,92.7,92.7,,90.9
+Valemont Services,2025-02-01,69,85.5,89.1,-7.2,91.3
+Valemont Services,2025-03-01,59,88.1,88.8,2.6,83.1
+Valemont Services,2025-04-01,76,94.7,89.4,6.6,88.2
+Valemont Services,2025-05-01,59,91.5,91.4,-3.2,86.4
+Valemont Services,2025-06-01,73,91.8,92.7,0.3,91.8
+Valemont Services,2025-07-01,79,84.8,89.4,-7.0,87.3
+Valemont Services,2025-08-01,74,90.5,89.0,5.7,93.2
+Valemont Services,2025-09-01,48,91.7,89.0,1.2,89.6
+Valemont Services,2025-10-01,65,95.4,92.5,3.7,95.4
+Valemont Services,2025-11-01,59,96.6,94.6,1.2,84.7
+Valemont Services,2025-12-01,56,98.2,96.7,1.6,94.6
+Valemont Services,2026-01-01,48,93.8,96.2,-4.4,87.5
+Valemont Services,2026-02-01,53,94.3,95.4,0.5,96.2
+Valemont Services,2026-03-01,75,90.7,92.9,-3.6,92.0
+Valemont Services,2026-04-01,60,93.3,92.8,2.6,98.3
+Valemont Services,2026-05-01,58,93.1,92.4,-0.2,96.6
+Valemont Services,2026-06-01,56,80.4,88.9,-12.7,91.1

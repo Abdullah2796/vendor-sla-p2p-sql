@@ -1,0 +1,26 @@
+vendor_id,vendor_name,category,contract_tier,payment_terms_days
+1,Arkwell Services,Field Maintenance,Tactical,60
+2,Brightline Services,Field Maintenance,Tactical,60
+3,Cobaltis Services,Field Maintenance,Preferred,45
+4,Dunmore Services,Field Maintenance,Preferred,60
+5,Everfield Services,Field Maintenance,Tactical,45
+6,Fenwick Services,Field Maintenance,Strategic,30
+7,Galloway Services,Field Maintenance,Preferred,45
+8,Harrowgate Services,Network Services,Tactical,30
+9,Ironbay Services,Network Services,Strategic,60
+10,Juniper Ridge Services,Network Services,Preferred,45
+11,Kestrel Services,Network Services,Strategic,45
+12,Larkspur Services,Network Services,Tactical,60
+13,Meridian Arc Services,Network Services,Preferred,30
+14,Northgate Supply,Hardware Supply,Tactical,30
+15,Oakhurst Supply,Hardware Supply,Preferred,60
+16,Pinecrest Supply,Hardware Supply,Preferred,60
+17,Quayside Supply,Hardware Supply,Tactical,30
+18,Redstone Supply,Hardware Supply,Tactical,45
+19,Silverlake Services,Software Platform,Strategic,30
+20,Thornbury Services,Software Platform,Tactical,45
+21,Upland Services,Software Platform,Preferred,45
+22,Valemont Services,Software Platform,Preferred,45
+23,Westbrook Services,Facilities,Strategic,60
+24,Yarrow Services,Facilities,Strategic,60
+25,Zephyr Services,Facilities,Tactical,45

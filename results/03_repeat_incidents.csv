@@ -1,0 +1,13 @@
+section,period,project_name,category,incidents,repeat_incidents,repeat_rate_pct,hotspot_rank
+summary,1. Before RCA programme,,,6534,749,11.5,
+summary,2. After RCA programme,,,5987,370,6.2,
+top 5 hotspots,1. Before RCA programme,Public Safety IoT - West / asset 9231,Connectivity loss,,4,,1
+top 5 hotspots,1. Before RCA programme,Smart Metering - Central / asset 5132,Gateway down,,3,,2
+top 5 hotspots,1. Before RCA programme,Public Safety IoT - Central / asset 10307,Configuration error,,3,,3
+top 5 hotspots,1. Before RCA programme,Public Safety IoT - Central / asset 10329,Connectivity loss,,3,,4
+top 5 hotspots,1. Before RCA programme,Public Safety IoT - Central / asset 10559,Sensor offline,,3,,5
+top 5 hotspots,2. After RCA programme,Smart Buildings - North / asset 11467,Sensor offline,,3,,1
+top 5 hotspots,2. After RCA programme,Public Safety IoT - East / asset 8099,Software fault,,3,,2
+top 5 hotspots,2. After RCA programme,Smart Metering - West / asset 4137,Configuration error,,2,,3
+top 5 hotspots,2. After RCA programme,Public Safety IoT - West / asset 9147,Power failure,,2,,4
+top 5 hotspots,2. After RCA programme,Smart Buildings - East / asset 13368,Power failure,,2,,5

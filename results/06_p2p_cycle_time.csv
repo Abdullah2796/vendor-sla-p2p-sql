@@ -1,0 +1,19 @@
+month,period,pos,median_po_approval_days,rolling_3m_po_approval_days,median_invoice_approval_days,paid_on_time_pct
+2025-01-01,Before redesign,75,6.7,6.7,7.0,68.7
+2025-02-01,Before redesign,68,7.7,7.2,7.0,62.7
+2025-03-01,Before redesign,87,7.1,7.2,6.0,61.4
+2025-04-01,Before redesign,70,6.7,7.2,6.0,62.8
+2025-05-01,Before redesign,86,6.4,6.7,7.0,64.9
+2025-06-01,Before redesign,58,7.4,6.8,6.0,58.6
+2025-07-01,After redesign,95,2.8,5.5,4.0,71.9
+2025-08-01,After redesign,79,2.9,4.4,4.0,79.6
+2025-09-01,After redesign,71,2.7,2.8,4.0,67.5
+2025-10-01,After redesign,71,2.6,2.7,4.0,68.3
+2025-11-01,After redesign,79,2.6,2.6,3.0,68.2
+2025-12-01,After redesign,73,2.8,2.7,4.0,63.9
+2026-01-01,After redesign,66,2.7,2.7,4.5,67.1
+2026-02-01,After redesign,59,2.5,2.7,4.0,74.6
+2026-03-01,After redesign,75,2.7,2.6,4.0,65.0
+2026-04-01,After redesign,80,2.3,2.5,4.0,83.1
+2026-05-01,After redesign,86,2.9,2.6,4.0,85.7
+2026-06-01,After redesign,5,1.8,2.3,4.0,

@@ -1,0 +1,15 @@
+rank,vendor_name,months_in_a_row,streak_start,streak_end
+1,Brightline Services,9,2025-09-01,2026-05-01
+1,Larkspur Services,9,2025-08-01,2026-04-01
+2,Kestrel Services,7,2025-12-01,2026-06-01
+3,Galloway Services,5,2025-01-01,2025-05-01
+4,Cobaltis Services,4,2025-11-01,2026-02-01
+4,Everfield Services,4,2025-12-01,2026-03-01
+4,Fenwick Services,4,2025-01-01,2025-04-01
+5,Valemont Services,3,2025-10-01,2025-12-01
+6,Thornbury Services,2,2025-11-01,2025-12-01
+7,Arkwell Services,1,2025-12-01,2025-12-01
+7,Harrowgate Services,1,2026-01-01,2026-01-01
+7,Juniper Ridge Services,1,2025-12-01,2025-12-01
+7,Meridian Arc Services,1,2026-06-01,2026-06-01
+7,Upland Services,1,2026-01-01,2026-01-01

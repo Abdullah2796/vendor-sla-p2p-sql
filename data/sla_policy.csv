@@ -1,0 +1,5 @@
+priority,response_target_min,resolution_target_hrs
+P1,15,4
+P2,30,8
+P3,120,24
+P4,480,72

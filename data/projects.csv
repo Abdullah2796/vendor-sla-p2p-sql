@@ -1,0 +1,21 @@
+project_id,project_name,programme,customer_segment,go_live_date,device_count
+1,Smart Metering - North,Smart Metering,Utilities,2023-04-25,800
+2,Smart Metering - South,Smart Metering,Utilities,2023-10-09,1200
+3,Smart Metering - East,Smart Metering,Utilities,2023-08-17,1200
+4,Smart Metering - West,Smart Metering,Utilities,2023-04-15,6000
+5,Smart Metering - Central,Smart Metering,Utilities,2023-03-31,6000
+6,Public Safety IoT - North,Public Safety IoT,Government,2024-03-08,800
+7,Public Safety IoT - South,Public Safety IoT,Government,2023-01-31,800
+8,Public Safety IoT - East,Public Safety IoT,Government,2023-08-12,1200
+9,Public Safety IoT - West,Public Safety IoT,Government,2024-06-01,6000
+10,Public Safety IoT - Central,Public Safety IoT,Government,2023-01-28,6000
+11,Smart Buildings - North,Smart Buildings,Enterprise,2023-07-23,6000
+12,Smart Buildings - South,Smart Buildings,Enterprise,2024-03-05,1200
+13,Smart Buildings - East,Smart Buildings,Enterprise,2024-04-04,6000
+14,Smart Buildings - West,Smart Buildings,Enterprise,2023-10-12,800
+15,Smart Buildings - Central,Smart Buildings,Enterprise,2023-06-13,4000
+16,Fleet Telematics - North,Fleet Telematics,Enterprise,2023-12-15,2500
+17,Fleet Telematics - South,Fleet Telematics,Enterprise,2023-06-09,1200
+18,Fleet Telematics - East,Fleet Telematics,Enterprise,2023-12-11,800
+19,Fleet Telematics - West,Fleet Telematics,Enterprise,2023-04-05,4000
+20,Fleet Telematics - Central,Fleet Telematics,Enterprise,2023-04-10,2500
